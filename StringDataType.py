@@ -1,12 +1,12 @@
-#shift + option + A
+# shift + option + A
 
-#myString = "This is a string."
-#print(myString)
+myString = "This is a string."
+print(myString)
 
-#print(type(myString))
-#print(myString + " is of the data type " + str(type(myString)))
+print(type(myString))
+print(myString + " is of the data type " + str(type(myString)))
 
-""" firstString = "water"
+firstString = "water"
 secondString = "fall"
 thirdString = firstString + secondString
 print(thirdString)
@@ -14,10 +14,10 @@ print(thirdString)
 firstString = "water "
 secondString = "fall"
 thirdString = firstString + secondString
-print(thirdString) """
+print(thirdString)
 
-""" name = input("What is your name? ")
-print(name) """
+name = input("What is your name? ")
+print(name)
 
 color = input("What is your favorite color? ")
 animal = input("What is your favorite animal? ")
